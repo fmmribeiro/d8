@@ -7,7 +7,7 @@ dependencies:
 id: conteudo
 label: conteudo
 type: 'canonical_entities:node'
-pattern: 'ipg/[node:title]'
+pattern: 'ubi/[node:title]'
 selection_criteria: {  }
 selection_logic: and
 weight: 0
