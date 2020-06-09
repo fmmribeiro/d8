@@ -1,0 +1,14 @@
+uuid: a3c90ac8-8aa3-4014-a7e9-44524f7fc1eb
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: conteudo
+label: conteudo
+type: 'canonical_entities:node'
+pattern: '[node:title]'
+selection_criteria: {  }
+selection_logic: and
+weight: 0
+relationships: {  }
